@@ -23,10 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.2",
-    "db-migrate": "^0.9.23",
-    "express": "^4.13.3",
-    "pg": "^4.4.3",
-    "pg.js": "^4.1.1"
+    "express": "^4.13.3"
   },
   "devDependencies": {
     "tsd": "^0.6.5",
